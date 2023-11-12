@@ -158,5 +158,6 @@ contract RedPacketPrototype {
 
 ## 版本历史
 
+* 2023.11.12 contract v1.0 evan.j 第一版本合约代码。简单测试OK。ready for review.
 * 2023.10.13 spec-v1.1 evan.j 更新算法和数据结构；红包总能量上限从500 J改为2000 J；原型代码，算法验证
 * 2023.9.8 spec-v1.0 evan.j 
